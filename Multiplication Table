@@ -1,0 +1,12 @@
+var a = prompt("Number for Multiplication Table: ")
+console.log(a)
+if (a>0) {
+var b = prompt("Till what number do you want to print the multiplication table? ")
+console.log(b)
+var c = b}
+    for(i=1;i<=c;i++)
+    {console.log(a+"x"+i+"=",a*i)}
+   
+    // j=0
+    // while(j<=b)
+    // {console.log(a+"x"+j+"="+a*j)j=j+1}
